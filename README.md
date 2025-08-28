@@ -147,3 +147,4 @@ If you encounter any issues or have questions, please open an issue on the proje
 ---
 
 **Note**: This application uses Google Translate service. Translation quality may vary depending on the complexity of the text and language pairs.
+# PPT_TRANSLATOR
