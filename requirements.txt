@@ -1,0 +1,5 @@
+streamlit==1.28.1
+python-pptx>=0.6.22
+googletrans==4.0.0-rc1
+langcodes==3.3.0
+Pillow>=10.0.1
